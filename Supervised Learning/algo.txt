@@ -1,0 +1,5 @@
+Naive bayes
+Logistic regresiion
+Knn
+Random forest
+

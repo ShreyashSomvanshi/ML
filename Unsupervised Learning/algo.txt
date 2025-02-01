@@ -1,0 +1,16 @@
+# Clustering:
+Kmeans clutering
+k medoid
+dbscan
+pca
+hierarchical clustering
+
+
+# Association:
+FP growth
+Apriori algo
+
+# Anomaly detection
+Z-score algo
+isolation forest algo
+
